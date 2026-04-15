@@ -1,0 +1,14 @@
+/* CSS Reset & Variables */
+:root {
+  --bg-color: #0d1116; /* Very dark, slightly blue-tinted background */
+  --bg-card: #151b22; /* Slightly lighter card background */
+  --primary-yellow: #e2b45f; /* Distinctive warm gold */
+  --yellow-hover: #f3cc83;
+  --yellow-active: #f3cc83;
+  --text-main: #f0f6fc;
+  --text-muted: #e6e7e8;
+  --border-color: #21262d;
+
+  --font-main: "Manrope", sans-serif;
+  --font-serif: "Noto Serif", serif;
+}
